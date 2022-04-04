@@ -1,2 +1,2 @@
 # hello-world
-hello worldを表示
+BrainF**kを用いてhello worldを表示
