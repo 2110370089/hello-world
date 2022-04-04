@@ -1,2 +1,2 @@
 # hello-world
-BrainF**kを用いてhello worldを表示
+BrainF\*\*kを用いて`Hello,World!!!`を表示
